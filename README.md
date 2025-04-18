@@ -1,6 +1,8 @@
 # Perfume Inventory Manager
 
 A simple C++ console application to manage a perfume collection using singly linked lists.
+This project was implemented as a quick demonstration of linked list and basic file structuring for portfolio purposes.
+
 
 ## Features
 
